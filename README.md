@@ -31,3 +31,5 @@ const PROPERTIES = [
 const SEARCH_PROPERTIES = [
   'Property_3',
 ];
+
+# How it works
