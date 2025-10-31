@@ -23,14 +23,14 @@ The goal of this script is to:
 const HUBSPOT_ACCESS_TOKEN = 'YOUR_HUBSPOT_PRIVATE_APP_TOKEN';
 
 const PROPERTIES = [
-  'status_of_acca_sitting',
-  'submitted_for_acca',
-  'subject_registered_acca',
-  'acca_enrollment_year',
+  'Property_1',
+  'Property_2',
+  'Property_3',
+  'Property_4',
 ];
 
 const SEARCH_PROPERTIES = [
-  'acca_enrollment_year',
+  'Property_3',
 ];
 ```
 
